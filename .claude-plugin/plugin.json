@@ -1,0 +1,17 @@
+{
+  "name": "marketseasy",
+  "displayName": "MarketsEasy",
+  "version": "0.1.0",
+  "description": "Connect your MarketsEasy account to check orders, products and marketplace operations for the suppliers you work with, and propose changes that a person approves in MarketsEasy before they run.",
+  "author": {
+    "name": "MarketsEasy",
+    "email": "contact@marketseasy.com",
+    "url": "https://marketseasy.com"
+  },
+  "homepage": "https://github.com/supplyswap/marketseasy-claude-plugin#readme",
+  "repository": "https://github.com/supplyswap/marketseasy-claude-plugin",
+  "license": "MIT",
+  "keywords": ["marketseasy", "marketplaces", "orders", "products", "ecommerce"],
+  "icon": "./assets/icon.png",
+  "privacyPolicyUrl": "https://marketseasy.com/privacy"
+}
